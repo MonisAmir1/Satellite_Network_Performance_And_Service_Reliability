@@ -1,4 +1,4 @@
-# Satellite Network Performance & Service Reliabilit
+# Satellite Network Performance & Service Reliability
 > Analysed satellite network outages and service performance to identify reliability risks, customer impact, and opportunities to reduce service disruptions.
 
 ## **View the Full Project →**
