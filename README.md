@@ -1,7 +1,7 @@
 # Satellite Network Performance & Service Reliability
 > Analysed satellite network outages and service performance to identify reliability risks, customer impact, and opportunities to reduce service disruptions.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/satellite-network-performance-service-reliability**
 
 ## About the Project
 
@@ -68,4 +68,4 @@ This project uses a **real-world style synthetic dataset** created specifically 
 
 The complete case study contains the detailed business context, analytical approach, key insights, strategic recommendations, expected business impact, technical implementation, dashboard, and lessons learned.
 
-## **View the Full Project →**
+## **View the Full Project → https://monisamir1.github.io/projects/satellite-network-performance-service-reliability**
